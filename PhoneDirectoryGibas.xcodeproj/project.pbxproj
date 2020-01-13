@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		DAF75E11238F0A9B0084196F /* PhoneDirectoryGibas */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = PhoneDirectoryGibas; sourceTree = BUILT_PRODUCTS_DIR; };
-		DAF75E14238F0A9B0084196F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		DAF75E14238F0A9B0084196F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = main.swift; path = "../../Phone directory without extension/main.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
